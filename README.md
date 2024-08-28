@@ -41,7 +41,7 @@ ng s -o
 ```
 #### Live server no celular
 
-\_Você também pode rodar o projeto no seu aparelho celular !!!\_ Para isso basta ter o Android Studio instalado na sua máquina, ativar o modo de desenvolvedor do seu Android e emparelhar no Android Studio via cabo ou wi-fi.
+*Você também pode rodar o projeto no seu aparelho celular !!!* Para isso basta ter o Android Studio instalado na sua máquina, ativar o modo de desenvolvedor do seu Android e emparelhar no Android Studio via cabo ou wi-fi.
 Após isso, digite os seguintes comandos no seu terminal:
 
 ```
