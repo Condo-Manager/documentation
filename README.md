@@ -61,3 +61,10 @@ e logo em seguida digite o comando abaixo no seu terminal para atualizar todas a
 ```
 npm i
 ```
+Após isso, insira todos os dados a respeito do seu banco de dados no arquivo *backend/.env.example* e renomeie o arquivo para *.env*.
+Depois, digite o seguinte comando no seu terminal:
+
+```
+npm start:prod
+```
+Você verá no terminal que a aplicação está escutando uma determinada porta, **guarde isso !!!**
