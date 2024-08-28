@@ -26,10 +26,27 @@ Principais tecnologias:
 
 ## Frontend
 
-O repositório com o frontend dpo projeto pode ser acessado em **[Frontend - CondoManager](https://github.com/Condo-Manager/Frontend.git)**
+O repositório com o frontend dpo projeto pode ser acessado em **[Frontend - CondoManager](https://github.com/Condo-Manager/Frontend.git)**  
 Para rodar o projeto localmente, basta clonar o repositório citado anteriormente e abrir um terminal na raiz desse projeto,
 logo em seguida digite no o comando abaixo no seu terminal para atualizar todas as dependencias:
 
 ```
 npm i
 ```
+Em seguida digite uma das linhas de comando abaixo para abrir no seu navegador:
+
+```
+ionic s -o
+ng s -o
+```
+#### Live server no celular
+
+\Você também pode rodar o projeto no seu aparelho celular !!!\ Para isso basta ter o Android Studio instalado na sua máquina, ativar o modo de desenvolvedor do seu Android e emparelhar no Android Studio via cabo ou wi-fi.
+Após isso, digite os seguintes comandos no seu terminal:
+
+```
+ionic cap build android
+```
+ionic cap run android -l --external
+```
+E após isso escolher a rede ethernet ou wi-fi nas opções do terminal
