@@ -26,9 +26,9 @@ Principais tecnologias:
 
 ## Frontend
 
-O repositório com o frontend dpo projeto pode ser acessado em **[Frontend - CondoManager](https://github.com/Condo-Manager/Frontend.git)**  
-Para rodar o projeto localmente, basta clonar o repositório citado anteriormente e abrir um terminal na raiz desse projeto,
-logo em seguida digite no o comando abaixo no seu terminal para atualizar todas as dependencias:
+O repositório com o frontend do projeto pode ser acessado em **[Frontend - CondoManager](https://github.com/Condo-Manager/Frontend.git)**  
+Para rodar o projeto localmente, basta clonar o repositório citado anteriormente, abrir um terminal na raiz desse projeto,
+e logo em seguida digite no o comando abaixo no seu terminal para atualizar todas as dependencias:
 
 ```
 npm i
@@ -53,3 +53,11 @@ ionic cap run android -l --external
 E após isso escolher a rede ethernet ou wi-fi nas opções do terminal  
   
 ## Backend
+
+O repositório com o backend do projeto(API) pode ser acessado em **[Backend - CondoManager](https://github.com/Condo-Manager/Backend.git)**  
+Para rodar o projeto localmente, basta clonar o repositório citado anteriormente, abrir um terminal na raiz desse projeto,
+e logo em seguida digite o comando abaixo no seu terminal para atualizar todas as dependencias:
+
+```
+npm i
+```
