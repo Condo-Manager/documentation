@@ -4,8 +4,7 @@ Redes e Infra
 
 Alunos: Daniel Lucas, Erick Cirico, Iago Kater e Vinicius La Serra 
 
-Título do projeto
-CondoManager
+Título do projeto: CondoManager
 
 Tema do Projeto:
 O CondoManager é um sistema moderno e eficiente voltado para a gestão de condomínios, com foco em facilitar a administração e melhorar a comunicação entre moradores e equipe administrativa. O projeto visa implementar funcionalidades essenciais para o dia a dia de um condomínio, concentrando-se em três pilares principais:
