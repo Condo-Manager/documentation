@@ -2,7 +2,13 @@
 
 ### CondoManager
 
-Alunos: Daniel Lucas, Erick Cirico, Iago Kater e Vinicius La Serra 
+ ![Lgerogo CondoMana](https://avatars.githubusercontent.com/u/178331720?s=400&u=e5f16fbf67758545c901386babac5e83f938e188&v=4)
+
+Alunos: 
+- [Daniel Lucas](https://github.com/DanielLucas2305)
+- [Erick Cirico](https://github.com/erickom8)
+- [Iago Kater](https://github.com/iagokater)
+- Vinicius La Serra 
 
 Tema do Projeto:
 O CondoManager é um sistema moderno e eficiente voltado para a gestão de condomínios, com foco em facilitar a administração e melhorar a comunicação entre moradores e equipe administrativa. O projeto visa implementar funcionalidades essenciais para o dia a dia de um condomínio, concentrando-se em três pilares principais:
