@@ -64,16 +64,3 @@ E após isso escolher a rede ethernet ou wi-fi nas opções do terminal
 ## Backend
 
 O repositório com o backend do projeto(API) pode ser acessado em **[Backend - CondoManager](https://github.com/Condo-Manager/Backend.git)**  
-Para rodar o projeto localmente, basta clonar o repositório citado anteriormente, abrir um terminal na raiz desse projeto,
-e logo em seguida digite o comando abaixo no seu terminal para atualizar todas as dependencias:
-
-```
-npm i
-```
-Após isso, insira todos os dados a respeito do seu banco de dados no arquivo *backend/.env.example* e renomeie o arquivo para *.env*.
-Depois, digite o seguinte comando no seu terminal:
-
-```
-npm start:prod
-```
-Você verá no terminal que a aplicação está escutando uma determinada porta, **guarde isso !!!**
