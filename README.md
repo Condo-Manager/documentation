@@ -42,11 +42,14 @@ ng s -o
 #### Live server no celular
 
 **Você também pode rodar o projeto no seu aparelho celular !!!** Para isso basta ter o Android Studio instalado na sua máquina, ativar o modo de desenvolvedor do seu Android e emparelhar no Android Studio via cabo ou wi-fi.
-Após isso, digite os seguintes comandos no seu terminal:
+Após isso, digite os seguintes comandos no terminal raiz do projeto:
 
 ```
 ionic cap build android
 ```
+```
 ionic cap run android -l --external
 ```
-E após isso escolher a rede ethernet ou wi-fi nas opções do terminal
+E após isso escolher a rede ethernet ou wi-fi nas opções do terminal  
+  
+## Backend
